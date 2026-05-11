@@ -1,2 +1,2 @@
-# learn-ledger
-a web page to test your skill 
+# learnledger
+a web page to check users skills on his technical skills and verify there credential's 
